@@ -4,8 +4,8 @@
   <a href="https://github.com/Marcelo-Barella">
     <img src="https://img.shields.io/badge/GitHub-Marcelo--Barella-181717?style=for-the-badge&logo=github" alt="GitHub badge" />
   </a>
-  <a href="https://bergamota.dev">
-    <img src="https://img.shields.io/badge/Tangerina-bergamota.dev-FF8C00?style=for-the-badge&logo=discord&logoColor=white" alt="Tangerina badge" />
+  <a href="https://me.bergamota.dev">
+    <img src="https://img.shields.io/badge/Portfolio-me.bergamota.dev-0A66C2?style=for-the-badge&logo=google-chrome" alt="Portfolio badge" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@ AI-powered Vue 3 component enhancement system using Vercel AI SDK v5 and Model C
 Discord AI assistant bot with music playback (Spotify/YouTube), voice commands with TTS, natural language understanding, and web search. Python-based with a Flask backend and Docker deployment. Landing page at [bergamota.dev](https://bergamota.dev).
 
 ### [bergamota](https://github.com/Marcelo-Barella/bergamota)
-Nuxt 4 personal platform with SPA architecture, typed blog posts, custom visual identity, and smooth scroll/animation integration.
+Nuxt 4 personal portfolio platform with SPA architecture, typed blog posts, custom visual identity, and smooth scroll/animation integration. Live at [me.bergamota.dev](https://me.bergamota.dev).
 
 ### [SandBoxify](https://github.com/Marcelo-Barella/SandBoxify)
 Docker-based sandbox environment with a frontend, API, and SQL database designed to make testing and breaking things easy for developers.
@@ -90,5 +90,6 @@ Docker-based sandbox environment with a frontend, API, and SQL database designed
 
 ## Connect
 
+- Portfolio: [me.bergamota.dev](https://me.bergamota.dev)
 - GitHub: [@Marcelo-Barella](https://github.com/Marcelo-Barella)
-- Website: [bergamota.dev](https://bergamota.dev)
+- Tangerina: [bergamota.dev](https://bergamota.dev)
