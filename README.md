@@ -10,7 +10,7 @@ Cursor Ambassador — Porto Alegre meetups, Cafe Cursor Florianópolis. Rio Gran
 
 ### [cursor-sync](https://github.com/Marcelo-Barella/cursor-sync)
 
-Syncs your Cursor settings, rules, and snippets to a private gist. [6,554 downloads on Open VSX](https://open-vsx.org/extension/MarceloBarella/cursor-sync).
+Syncs your Cursor settings, rules, and snippets to a private gist. Thousands of downloads on [Open VSX](https://open-vsx.org/extension/MarceloBarella/cursor-sync).
 
 ## Experiments
 
