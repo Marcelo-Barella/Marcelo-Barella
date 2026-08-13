@@ -1,33 +1,31 @@
 # Marcelo Barella
 
-I build AI tools and agent workflows — the kind that turn ambitious ideas into something people actually use.
+I ship AI tools and agent workflows that turn ambitious ideas into something people use every day.
 
-[me.bergamota.dev](https://me.bergamota.dev) · [bergamota.dev](https://bergamota.dev) (Tangerina)
+[bergamota.dev](https://bergamota.dev) · [me.bergamota.dev](https://me.bergamota.dev)
 
-SigaSoft · Cursor Ambassador · Rio Grande do Sul, Brazil
+Cursor Ambassador — Porto Alegre meetups, Cafe Cursor Florianópolis. Rio Grande do Sul, Brazil.
 
-## Work
+## Experiments
 
 ### [Cursor-CA-Orchestrator](https://github.com/Marcelo-Barella/Cursor-CA-Orchestrator)
 
-One goal, many repos. Coordinates Cursor Cloud Agents across GitHub — shared run state, work routed to the right repository, parallel agents that don't scatter.
+Run one goal across many GitHub repos at once. Multi-repo agent runs, GitHub as the shared surface — CLI, bootstrap repo, workers.
 
 ### [cursor-sync](https://github.com/Marcelo-Barella/cursor-sync)
 
-Portable Cursor workspace. Settings, rules, snippets to a private cloud backup. Push, pull on a new machine, resolve conflicts when two setups diverge.
+Same editor. Portable state. Private gist snapshot, native editor commands.
 
 ### [Tangerina](https://github.com/Marcelo-Barella/Tangerina)
 
-Discord companion — chat, music, voice, tools. One bot instead of juggling a dozen.
+Discord AI companion. One member, the whole vibe — presence over a feature checklist.
 
 ### [Agentic-Browser-AI](https://github.com/Marcelo-Barella/Agentic-Browser-AI)
 
-Real browser sessions for assistants. Navigation, screenshots, interaction — grounded in what's on screen, not a stale snapshot.
-
-Also: [bergamota-kit](https://github.com/Marcelo-Barella/bergamota-kit) — Cursor skills for planning, debugging, execution (marketplace + local install).
+MCP live-browser bridge. "Check the dashboard" means open the tab, look, and act. Docs sometimes run ahead of the code.
 
 ---
 
-Start in the noise. Break the prototype. Leave the fingerprints.
+Projects that want to stand out, not fit in.
 
-marcelo.barella27@gmail.com
+[GitHub](https://github.com/Marcelo-Barella) · [LinkedIn](https://linkedin.com/in/marcelo-barella-29ba63234/) · [X](https://x.com/bergamota_mb) · marcelo.barella27@gmail.com
