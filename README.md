@@ -4,15 +4,14 @@
 
 I build products and tooling around **AI agents**: Cursor agents, MCP servers, Skills, and **Grok Bot** workflows. Day to day I lean on **Python** and **Nuxt**, with a bias toward shipping things people actually run.
 
-[bergamota.dev](https://bergamota.dev) · [Cursor @mbarella](https://cursor.com/@mbarella)
+[bergamota.dev](https://bergamota.dev) · [Cursor](https://cursor.com/@mbarella)
 
 ---
 
 ## What I'm working on
 
 - **Agent tooling** — extensions, orchestration, and MCP servers that fit real dev workflows.
-- **Token optimization workshop** (~2h) — what tokens are, how models use context, and practical ways to trim waste; hands-on material tied to the **Cursor SDK** and **ACP** (Agent Client Protocol), including [`pycursor-acp`](https://github.com/Marcelo-Barella/pycursor-acp).
-- **Community** — Cursor meetups and talks in **Passo Fundo**, **Porto Alegre**, and **Serra Gaúcha** (community-run, not vendor events).
+- **Shipping** — Cursor Sync, insurance tooling, Discord bots, and the next thing that needs a real deploy.
 
 ---
 
@@ -47,13 +46,13 @@ Agent layer: **Cursor** (rules, skills, cloud agents), **MCP**, **ACP**, Discord
 
 **Build ambassador**, part of the **SpaceXSI Community**.
 
-I organize **Cursor** community meetups in Rio Grande do Sul, give talks, and run the token workshop above. If you are in the region and want to compare notes on agents or context engineering, say hi.
+I help organize **Cursor** community meetups and events in **Passo Fundo**, **Porto Alegre**, and **Serra Gaúcha** (community-run, not vendor events). I give talks and hands-on workshops on AI agents, **Cursor**, MCPs and Skills, **Grok Bot** workflows, and related topics — including a ~2h session on tokens, models, and context optimization. If you are in the region, say hi.
 
 ---
 
 ## Contact
 
-[GitHub](https://github.com/Marcelo-Barella) · [LinkedIn](https://www.linkedin.com/in/marcelobarella/) · [X](https://x.com/bergamota_mb) · marcelo.barella27@gmail.com
+[GitHub](https://github.com/Marcelo-Barella) · [LinkedIn](https://www.linkedin.com/in/marcelobarella/) · [Cursor](https://cursor.com/@mbarella) · [X](https://x.com/bergamota_mb) · marcelo.barella27@gmail.com
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Marcelo-Barella&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="150" />
